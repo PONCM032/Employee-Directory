@@ -1,18 +1,35 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { Component } from 'react';
 import './App.css';
 import Navbar from "./components/navbar"
 import Searchbar from './components/searchbar';
 import Table from "./components/table";
+import API from "./utils/API";
 
-function App() {
-  return(
-  <div>
-  <Navbar />
-  <Searchbar />
-  <Table />
-  </div>
-  );
-}
+class App extends Component {
 
-export default App;
+  state = {
+    unfilterEe: {},
+    filterEe: {}
+  }
+
+  componentDidMount() {
+    this.searchPeople();
+  }
+
+  searchPeople = query =>{
+    
+  }
+
+  render() {
+    return (
+      <div>
+        <Navbar />
+        <Searchbar />
+        <Table />
+      </div>
+
+    )
+  };
+};
+
+  export default App;
