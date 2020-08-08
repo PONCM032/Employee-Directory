@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PONCM032/Employee-Directory/static/css/main.c75467c9.chunk.css",
+    "main.js": "/PONCM032/Employee-Directory/static/js/main.5b1caf9c.chunk.js",
+    "main.js.map": "/PONCM032/Employee-Directory/static/js/main.5b1caf9c.chunk.js.map",
+    "runtime-main.js": "/PONCM032/Employee-Directory/static/js/runtime-main.74458ea9.js",
+    "runtime-main.js.map": "/PONCM032/Employee-Directory/static/js/runtime-main.74458ea9.js.map",
+    "static/js/2.0e51c4db.chunk.js": "/PONCM032/Employee-Directory/static/js/2.0e51c4db.chunk.js",
+    "static/js/2.0e51c4db.chunk.js.map": "/PONCM032/Employee-Directory/static/js/2.0e51c4db.chunk.js.map",
+    "index.html": "/PONCM032/Employee-Directory/index.html",
+    "precache-manifest.a14eafc8c783d2df364844ed76117dd4.js": "/PONCM032/Employee-Directory/precache-manifest.a14eafc8c783d2df364844ed76117dd4.js",
+    "service-worker.js": "/PONCM032/Employee-Directory/service-worker.js",
+    "static/css/main.c75467c9.chunk.css.map": "/PONCM032/Employee-Directory/static/css/main.c75467c9.chunk.css.map",
+    "static/js/2.0e51c4db.chunk.js.LICENSE.txt": "/PONCM032/Employee-Directory/static/js/2.0e51c4db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74458ea9.js",
+    "static/js/2.0e51c4db.chunk.js",
+    "static/css/main.c75467c9.chunk.css",
+    "static/js/main.5b1caf9c.chunk.js"
+  ]
+}
